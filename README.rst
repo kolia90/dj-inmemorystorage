@@ -42,7 +42,7 @@ Differences
 ===========
 
 This library is based on `django-inmemorystorage <https://github.com/codysoyland/django-inmemorystorage>`_ by Cody Soyland,
-with `modifications <https://github.com/SeanHayes/django-inmemorystorage>`_ made by Seán Hayes with support for the ``url`` method,
+with `modifications <https://github.com/SeanHayes/django-inmemorystorage>`_ made by Sean Hayes with support for the ``url`` method,
 with `additional support <https://github.com/Vostopia/django-inmemorystorage>`_ from Tore Birkeland for writing to the file.
 
 Wave's modifications include packaging, and test modifications such that ``python setup.py test`` works. This version
